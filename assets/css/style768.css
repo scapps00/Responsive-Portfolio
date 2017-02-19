@@ -40,7 +40,6 @@ h1 {
 	background-color: #ffffff;
 	z-index: -2;
 	position: relative;
-	top: -18px;
 	border-bottom: 2px solid #cccccc;
 
 }
@@ -245,6 +244,7 @@ input[type=submit] {
 	width: 96%;
 	margin-left: 2%;
 	margin-right: 2%;
+	margin-bottom: 50px;
 }
 
 #rps {
@@ -261,7 +261,7 @@ input[type=submit] {
 	text-align: center;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	position: relative;
-	bottom: 100px;
+	bottom: 150px;
 }
 
 a {
