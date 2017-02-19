@@ -7,7 +7,6 @@ h1 {
 	text-align: center;
 	position: relative;
 	left: 10%;
-	top: 0px;
 	margin-top: 0px;
 	padding-top: 0px;
 	float: left;
@@ -39,9 +38,7 @@ h1 {
 	height: 76px;
 	background-color: #ffffff;
 	z-index: -2;
-	position: relative;
 	border-bottom: 2px solid #cccccc;
-
 }
 
 body, header, h1, #links {
