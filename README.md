@@ -23,5 +23,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Thanks to meyerweb.com for the reset code in reset.css
 * Thanks to the UNC Coding Bootcamp for the assignment
-
-
