@@ -9,7 +9,7 @@ none
 ## Built With
 
 * basic HTML and CSS
-* [Subtle Patterns] (https://www.toptal.com/designers/subtlepatterns/) - background pattern 
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - background pattern 
 
 ## Authors
 
